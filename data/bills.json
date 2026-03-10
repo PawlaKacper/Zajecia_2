@@ -1,0 +1,14 @@
+{
+    "bill-1": {
+        "rent_pln": "12345.5",
+        "date": "01.02.2003",
+        "bill_type": "invoice",
+        "apartment": "Polanka"
+    },
+    "bill-2": {
+        "rent_pln": "5432.31",
+        "date": "12.07.2024",
+        "bill_type": "invoice",
+        "apartment": "Winogrady"
+    }
+}
